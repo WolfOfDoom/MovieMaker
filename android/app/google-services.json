@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72531452707",
+    "project_id": "movie-maker-udg",
+    "storage_bucket": "movie-maker-udg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72531452707:android:941274006ffc3eb1d8e296",
+        "android_client_info": {
+          "package_name": "com.example.moviemaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNTo70uzus_1Y1BmVkTCTRiSrLa_nZAoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
